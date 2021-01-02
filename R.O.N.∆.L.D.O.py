@@ -183,7 +183,7 @@ class Ronaldo:
 
 r = Ronaldo
 r.start_conversation_log()
-
+While True:
+r()
 run_alexa = ALEXA
-while True:
-    r()
+
